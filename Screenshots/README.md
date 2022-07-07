@@ -1,2 +1,2 @@
 
-This Folder contains the screenshots of the dashboards.
+# This Folder contains the screenshots of the dashboards.
