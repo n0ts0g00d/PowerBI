@@ -53,3 +53,11 @@ Please adhere to this project's `code of conduct`.
 
 - [@n0ts0g00d](https://github.com/n0ts0g00d)
 
+
+## 🔗 How to connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/n0ts0g00d)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bakrolwala-30996321b/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MBakrol)
+
